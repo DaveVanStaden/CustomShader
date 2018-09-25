@@ -6,8 +6,8 @@ Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [de groei in de shader]
-- [het aanpassen van de shader via een script buiten de shader
+- de groei in de shader
+- het aanpassen van de shader via een script buiten de shader
 
 ## Software Anaylse 
 Ik heb gekozen om met unity te werken, omdat Unity van zich al een shader functie heeft waardoor het maken van een eigen shader makkelijker zal verlopen. Daarnaast voel ik me confortabel met de omgeving en wil ik mezelf erin gaan specialiseren.
@@ -29,5 +29,5 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [youtube videos over shaders]
-- [Unity library]
+- youtube videos over shaders
+- Unity library
